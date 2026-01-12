@@ -1,0 +1,10 @@
+
+/* tailwind.css (Tailwind v4) */
+@import "tailwindcss";
+
+/* Enregistrer DaisyUI + config des thèmes */
+@plugin "daisyui" {
+  /* Un seul thème disponible, défini par défaut */
+  themes: night --default;
+}
+
